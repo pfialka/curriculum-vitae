@@ -90,7 +90,7 @@ export const cvData: CvData = {
           title: 'Chapter Lead (Python, Node.js)',
           period: 'květen 2024 – říjen 2024',
           bullets: [
-            'Vedení souvisejících vývojových týmů (Python, Node.js) napříč oblastmi CMS, Identita, Video platforma (playlisty), Poplatky a Vše o ČT – společné standardy, sdílení know-how a koordinace technického směru.',
+            'Vedení osmičlenného týmu (Python, Node.js) napříč oblastmi CMS, Identita, Video platforma (playlisty), Poplatky a Vše o ČT – společné standardy, sdílení know-how a koordinace technického směru.',
             'Vedení migrace z interního Falcon frameworku na Django.',
             'Vedení přechodu z agregovaného GraphQL (schema stitching) na federované GraphQL.',
             'Zavedení Argo CD (GitOps).',
@@ -100,7 +100,7 @@ export const cvData: CvData = {
           title: 'Python Backend Team Lead',
           period: 'listopad 2021 – květen 2024',
           bullets: [
-            'Vedení týmu (Python, backendový TypeScript); vývoj CMS pro ČT24 a ČT Sport včetně návrhu a rozvoje backendové architektury v této doméně.',
+            'Vedení tříčlenného týmu (Python, backendový TypeScript); vývoj CMS pro ČT24 a ČT Sport včetně návrhu a rozvoje backendové architektury v této doméně.',
             'Architektura a provoz: GitOps, Kubernetes, Helm; integrace identity a access managementu.',
             'Údržba a rozvoj agregovaného GraphQL (schema stitching).',
             'Distribuované zamykání entit při souběžné editaci napříč mikroslužbami – aby se předešlo kolizím a nekonzistentním změnám v datech.',
@@ -139,7 +139,7 @@ export const cvData: CvData = {
           title: 'L1 Support Intern',
           period: 'květen 2016 – březen 2017',
           bullets: [
-            'Začátek v IT přes L1 support: provozní zkušenost, komunikace s uživateli a řešení provozních požadavků.',
+            'Komunikace s uživateli a řešení provozních požadavků.',
           ],
         },
       ],
